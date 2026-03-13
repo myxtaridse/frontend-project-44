@@ -47,3 +47,13 @@ brain-progression
 ```
 
 [![asciicast](https://asciinema.org)](https://asciinema.org/a/DRhVaFj1BFsYQy7U)
+
+## brain-prime:
+
+### Launch
+
+```bash
+brain-prime
+```
+
+[![asciicast](https://asciinema.org)](https://asciinema.org/a/ErsOenPlKSBCahwS)
