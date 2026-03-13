@@ -27,3 +27,13 @@ brain-calc
 ```
 
 [![asciicast](https://asciinema.org)](https://asciinema.org/a/kJ5gHQkWtRV18xl5)
+
+## brain-gcd:
+
+### Launch
+
+```bash
+brain-gcd
+```
+
+[![asciicast](https://asciinema.org)](https://asciinema.org/a/45JwaRt3WwpKsotl)
