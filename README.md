@@ -37,3 +37,13 @@ brain-gcd
 ```
 
 [![asciicast](https://asciinema.org)](https://asciinema.org/a/45JwaRt3WwpKsotl)
+
+## brain-progression:
+
+### Launch
+
+```bash
+brain-progression
+```
+
+[![asciicast](https://asciinema.org)](https://asciinema.org/a/DRhVaFj1BFsYQy7U)
