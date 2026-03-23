@@ -15,4 +15,5 @@ const getRoundData = () => {
   return [question, rightAnswer]
 }
 
-export default () => runGame(description, getRoundData)
+const sayGcd = () => runGame(description, getRoundData)
+export default sayGcd

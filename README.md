@@ -16,7 +16,7 @@ make install
 brain-even
 ```
 
-[![asciicast](https://asciinema.org)](https://asciinema.org/a/ntgApNIsBL3yyZPG)
+[![asciicast](https://asciinema.org/a/LQH6OtyXDEVcPFbz.svg)](https://asciinema.org/a/LQH6OtyXDEVcPFbz)
 
 ## brain-calc:
 
@@ -26,7 +26,7 @@ brain-even
 brain-calc
 ```
 
-[![asciicast](https://asciinema.org)](https://asciinema.org/a/kJ5gHQkWtRV18xl5)
+[![asciicast](https://asciinema.org/a/be1NyIPQqHMbSQ1R.svg)](https://asciinema.org/a/be1NyIPQqHMbSQ1R)
 
 ## brain-gcd:
 
@@ -36,7 +36,7 @@ brain-calc
 brain-gcd
 ```
 
-[![asciicast](https://asciinema.org)](https://asciinema.org/a/45JwaRt3WwpKsotl)
+[![asciicast](https://asciinema.org/a/l8MlQku9Gijy29B4.svg)](https://asciinema.org/a/l8MlQku9Gijy29B4)
 
 ## brain-progression:
 
@@ -46,7 +46,7 @@ brain-gcd
 brain-progression
 ```
 
-[![asciicast](https://asciinema.org)](https://asciinema.org/a/DRhVaFj1BFsYQy7U)
+[![asciicast](https://asciinema.org/a/auGRryDGavahOYEA.svg)](https://asciinema.org/a/auGRryDGavahOYEA)
 
 ## brain-prime:
 
@@ -56,4 +56,4 @@ brain-progression
 brain-prime
 ```
 
-[![asciicast](https://asciinema.org)](https://asciinema.org/a/ErsOenPlKSBCahwS)
+[![asciicast](https://asciinema.org/a/kZsOBOJVUyGtxvLK.svg)](https://asciinema.org/a/kZsOBOJVUyGtxvLK)

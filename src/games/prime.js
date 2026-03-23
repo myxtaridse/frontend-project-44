@@ -21,4 +21,5 @@ const getRoundData = () => {
   return [question, rightAnswer]
 }
 
-export default () => runGame(description, getRoundData)
+const sayPrime = () => runGame(description, getRoundData)
+export default sayPrime

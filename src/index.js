@@ -1,8 +1,10 @@
 import readlineSync from 'readline-sync'
-import sayGreeting from './cli.js'
 
 const runGame = (description, getRoundData) => {
-  const userName = sayGreeting()
+  console.log('Welcome to the Brain Games!')
+  const userName = readlineSync.question('May I have your name? ')
+  console.log(`Hello, ${userName}!`)
+
   console.log(description)
 
   const roundsToWin = 3
