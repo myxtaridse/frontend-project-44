@@ -14,7 +14,7 @@ cd frontend-project-44
 make setup
 ```
 
-[![asciicast](https://asciinema.org/a/jHAMUZbqM1IAuJky.svg)](https://asciinema.org/a/jHAMUZbqM1IAuJky)
+[![asciicast](https://asciinema.org/a/XAJUuW4r5Is41nyO.svg)](https://asciinema.org/a/XAJUuW4r5Is41nyO)
 
 ## brain-even:
 
@@ -24,7 +24,7 @@ make setup
 brain-even
 ```
 
-[![asciicast](https://asciinema.org/a/Etir03noDuqfkDtB.svg)](https://asciinema.org/a/Etir03noDuqfkDtB)
+[![asciicast](https://asciinema.org/a/Qw8BcrGAJc9kPsrd.svg)](https://asciinema.org/a/Qw8BcrGAJc9kPsrd)
 
 ## brain-calc:
 
@@ -34,7 +34,7 @@ brain-even
 brain-calc
 ```
 
-[![asciicast](https://asciinema.org/a/jVSDlMIaKqZYZCOp.svg)](https://asciinema.org/a/jVSDlMIaKqZYZCOp)
+[![asciicast](https://asciinema.org/a/rK0bWBNJFXueuGr6.svg)](https://asciinema.org/a/rK0bWBNJFXueuGr6)
 
 ## brain-gcd:
 
@@ -44,7 +44,7 @@ brain-calc
 brain-gcd
 ```
 
-[![asciicast](https://asciinema.org/a/6gkx7zKpZEe4hEY7.svg)](https://asciinema.org/a/6gkx7zKpZEe4hEY7)
+[![asciicast](https://asciinema.org/a/DxfFo0qCNxYaNYAq.svg)](https://asciinema.org/a/DxfFo0qCNxYaNYAq)
 
 ## brain-progression:
 
@@ -54,7 +54,7 @@ brain-gcd
 brain-progression
 ```
 
-[![asciicast](https://asciinema.org/a/oNwRRB1xPtyB2uaK.svg)](https://asciinema.org/a/oNwRRB1xPtyB2uaK)
+[![asciicast](https://asciinema.org/a/PeJTl4m8t0rIuuHZ.svg)](https://asciinema.org/a/PeJTl4m8t0rIuuHZ)
 
 ## brain-prime:
 
@@ -64,4 +64,4 @@ brain-progression
 brain-prime
 ```
 
-[![asciicast](https://asciinema.org/a/6QZ401r4FuB5Elj9.svg)](https://asciinema.org/a/6QZ401r4FuB5Elj9)
+[![asciicast](https://asciinema.org/a/Y390oX5TNRjPDPu7.svg)](https://asciinema.org/a/Y390oX5TNRjPDPu7)
