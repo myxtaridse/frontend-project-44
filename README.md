@@ -14,7 +14,7 @@ cd frontend-project-44
 make setup
 ```
 
-[Смотреть запись на asciinema](https://asciinema.org/a/861608)
+[![asciicast](https://asciinema.org/a/861608.png)](https://asciinema.org/a/861608)
 
 ## brain-even:
 
