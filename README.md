@@ -1,13 +1,10 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/myxtaridse/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/myxtaridse/frontend-project-44/actions)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=myxtaridse_frontend-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=myxtaridse_frontend-project-44)
+[![Actions Status](https://github.com/myxtaridse/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/myxtaridse/frontend-project-44/actions) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=myxtaridse_frontend-project-44&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=myxtaridse_frontend-project-44)
 
-# Brain Games
+# Игры разума
+**«Игры разума»** — набор из пяти консольных игр по мотивам популярных мобильных приложений для тренировки мозга. Каждая игра задаёт вопросы, на которые нужно дать правильные ответы. После трёх правильных ответов игра считается пройденной; неправильный ответ завершает игру и предлагает пройти её заново.
 
-It is a set of five console games inspired by popular mobile brain-pumping apps. Each game asks questions to be answered correctly. Once three correct answers are given, the game ends, incorrect answers end the game and prompt you to play it again.
-
-## For install Brain Games:
-
+## Установка:
 ```bash
 git clone https://github.com/myxtaridse/frontend-project-44.git
 cd frontend-project-44
@@ -16,52 +13,42 @@ make setup
 
 [![asciicast](assets/861608.svg)](https://asciinema.org/a/861608)
 
-## brain-even:
-
+## Чётное число (brain-even):
+**Чётное число** — определение чётности числа
 ### Launch
-
 ```bash
 brain-even
 ```
-
 [![asciicast](assets/861609.svg)](https://asciinema.org/a/861609)
 
-## brain-calc:
-
-### Launch
-
+## Калькулятор (brain-calc):
+**Калькулятор** — вычисление арифметических выражений
+#### Launch
 ```bash
 brain-calc
 ```
-
 [![asciicast](assets/861610.svg)](https://asciinema.org/a/861610)
 
-## brain-gcd:
-
+## НОД (brain-gcd):
+**НОД** — наибольший общий делитель двух чисел
 ### Launch
-
 ```bash
 brain-gcd
 ```
-
 [![asciicast](assets/861613.svg)](https://asciinema.org/a/861613)
 
-## brain-progression:
-
+## Прогрессия (brain-progression):
+**Прогрессия** — поиск пропущенного числа в последовательности
 ### Launch
-
 ```bash
 brain-progression
 ```
-
 [![asciicast](assets/861612.svg)](https://asciinema.org/a/861612)
 
-## brain-prime:
-
+## Простое число (brain-prime):
+**Простое число** — проверка числа на простоту
 ### Launch
-
 ```bash
 brain-prime
 ```
-
 [![asciicast](assets/861614.svg)](https://asciinema.org/a/861614)
