@@ -27,7 +27,7 @@ const getRoundData = () => {
   const question = `${operand1} ${operator} ${operand2}`
   const rightAnswer = String(calculate(operand1, operand2, operator))
 
-  return [question, rightAnswer]
+  return { question, rightAnswer }
 }
 
 const sayCalc = () => runGame(description, getRoundData)

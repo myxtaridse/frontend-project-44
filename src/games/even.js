@@ -8,7 +8,7 @@ const isEven = num => num % 2 === 0
 const getRoundData = () => {
   const randomNumber = getRandomNumber(1, 100)
   const rightAnswer = isEven(randomNumber) ? 'yes' : 'no'
-  return [randomNumber, rightAnswer]
+  return { question: randomNumber, rightAnswer }
 }
 
 const sayEven = () => runGame(description, getRoundData)

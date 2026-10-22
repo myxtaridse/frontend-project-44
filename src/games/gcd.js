@@ -12,7 +12,7 @@ const getRoundData = () => {
   const question = `${operand1} ${operand2}`
   const rightAnswer = String(getGcd(operand1, operand2))
 
-  return [question, rightAnswer]
+  return { question, rightAnswer }
 }
 
 const sayGcd = () => runGame(description, getRoundData)

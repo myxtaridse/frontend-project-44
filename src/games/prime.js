@@ -16,9 +16,9 @@ const isPrimeNum = (num) => {
 
 const getRoundData = () => {
   const question = getRandomNumber(0, 100)
-
   const rightAnswer = isPrimeNum(question) ? 'yes' : 'no'
-  return [question, rightAnswer]
+
+  return { question, rightAnswer }
 }
 
 const sayPrime = () => runGame(description, getRoundData)

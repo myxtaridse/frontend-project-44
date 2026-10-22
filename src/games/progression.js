@@ -23,7 +23,7 @@ const getRoundData = () => {
 
   const question = result.join(' ')
 
-  return [question, rightAnswer]
+  return { question, rightAnswer }
 }
 
 const sayProgression = () => runGame(description, getRoundData)
