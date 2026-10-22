@@ -8,10 +8,10 @@ const runGame = (description, getRoundData) => {
   console.log(description)
 
   const roundsToWin = 3
-  let round = 0
-
-  while (round < roundsToWin) {
-    const [question, rightAnswer] = getRoundData()
+  let round = 1
+  
+  while (round <= roundsToWin) {
+    const { question, rightAnswer } = getRoundData()
 
     console.log(`Question: ${question}`)
     const answer = readlineSync.question('Your answer: ')
